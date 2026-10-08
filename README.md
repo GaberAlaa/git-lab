@@ -354,7 +354,7 @@ origin  git@github.com:GaberAlaa/git-lab.git (fetch)
 origin  git@github.com:GaberAlaa/git-lab.git (push)
 ```
 
-- **Pull Request Link:** `[Insert link to the PR opened and merged on dummy-project]`
+- **Pull Request Link:** `https://github.com/GaberAlaa/git-lab/pull/1`
 - Screenshot of the merged PR on GitHub: _(Insert screenshot here)_
 
 ![alt text](pics/merged_PR.png)
